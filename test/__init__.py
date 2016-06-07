@@ -5,4 +5,5 @@ shares = 44
 
 marketValue = price * shares
 
+
 print marketValue
