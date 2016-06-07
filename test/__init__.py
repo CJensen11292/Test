@@ -1,4 +1,8 @@
 import os, sys, time
 
-print 'Hello world!'
+price = 120.122
+shares = 44
 
+marketValue = price * shares
+
+print marketValue
